@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">currencyConverter</string>
+    <string name="currency_converter">Currency Converter!</string>
+    <string name="how_much_usd_do_you_want_to_convert">How much $USD do you want to convert?</string>
+    <string name="convert">convert</string>
+    <string name="currencyImage" />
+    <string name="how_much_usd_pounds"><![CDATA[How much USD->Pounds?]]></string>
+</resources>
